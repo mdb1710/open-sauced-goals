@@ -1,8 +1,8 @@
 [
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 10373,
-    "open_issues_count": 264,
+    "stargazers_count": 10402,
+    "open_issues_count": 273,
     "forks_count": 433
   },
   {
@@ -21,25 +21,25 @@
     "full_name": "corda/corda",
     "stargazers_count": 3779,
     "open_issues_count": 233,
-    "forks_count": 1043
+    "forks_count": 1044
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 13800,
-    "open_issues_count": 939,
-    "forks_count": 3387
+    "stargazers_count": 13875,
+    "open_issues_count": 943,
+    "forks_count": 3402
   },
   {
     "full_name": "deepfakes/faceswap",
-    "stargazers_count": 39966,
+    "stargazers_count": 39994,
     "open_issues_count": 18,
-    "forks_count": 11411
+    "forks_count": 11415
   },
   {
     "full_name": "huginn/huginn",
-    "stargazers_count": 32856,
-    "open_issues_count": 571,
-    "forks_count": 3115
+    "stargazers_count": 32884,
+    "open_issues_count": 574,
+    "forks_count": 3119
   },
   {
     "full_name": "twhitacre/reactatl-9319",
@@ -50,8 +50,8 @@
   {
     "full_name": "zero-to-mastery/ZtM-Job-Board",
     "stargazers_count": 630,
-    "open_issues_count": 6,
-    "forks_count": 1909
+    "open_issues_count": 9,
+    "forks_count": 1915
   },
   {
     "full_name": "mdb1710/mnmlurl",
